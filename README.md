@@ -45,3 +45,6 @@ nunca dejes de soñar
 # Este es un comentario de Carlos Rosero
 
 lo unico imposible es aquello que no intentas
+
+# Este es un comentarios de Yamid
+Nuestra mayor debilidad reside en rendirnos. La forma más segura de tener éxito es intentarlo una vez más. (Thomas A. Edison)
