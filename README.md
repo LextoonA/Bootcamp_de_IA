@@ -41,3 +41,7 @@ Nunca pares de aprender
 # Este es un comentario de Gloria Delgado
 
 nunca dejes de soñar
+
+# Este es un comentario de Carlos Rosero
+
+lo unico imposible es aquello que no intentas
