@@ -25,3 +25,7 @@ Temas aprendidos en el curso:
 * Instalación de phyton y extensiones en Visual studio code
 * Firebase (Hosting)
 * Primeros pasos con Phyton (sintaxis y tipos de variables)
+
+# Este es un comentario de James
+
+La felicidad no es una meta, sino una serie de elecciones conscientes que hacemos cada día.
