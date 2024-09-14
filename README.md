@@ -29,3 +29,7 @@ Temas aprendidos en el curso:
 # Este es un comentario de James
 
 La felicidad no es una meta, sino una serie de elecciones conscientes que hacemos cada día.
+
+# este es un comentario de María Mercedes
+
+Nunca pares de aprender
