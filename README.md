@@ -37,3 +37,7 @@ Nunca pares de aprender
 # Este es un comentario de Sofi
 
 "El único límite que tienes es el que tú mismo te pones." -Robert Kiyosaki
+
+# Este es un comentario de Gloria Delgado
+
+nunca dejes de soñar
