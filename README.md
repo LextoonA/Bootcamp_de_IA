@@ -33,3 +33,7 @@ La felicidad no es una meta, sino una serie de elecciones conscientes que hacemo
 # este es un comentario de María Mercedes
 
 Nunca pares de aprender
+
+# Este es un comentario de Sofi
+
+"El único límite que tienes es el que tú mismo te pones." -Robert Kiyosaki
