@@ -48,3 +48,6 @@ lo unico imposible es aquello que no intentas
 
 # Este es un comentarios de Yamid
 Nuestra mayor debilidad reside en rendirnos. La forma más segura de tener éxito es intentarlo una vez más. (Thomas A. Edison)
+
+# Este es un comentarios de Andres Arias
+No hay hombre tan cobarde a quien el amor no haga valiente y transforme en héroe. Platón.
