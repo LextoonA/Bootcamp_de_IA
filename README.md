@@ -50,4 +50,8 @@ lo unico imposible es aquello que no intentas
 Nuestra mayor debilidad reside en rendirnos. La forma más segura de tener éxito es intentarlo una vez más. (Thomas A. Edison)
 
 # Este es un comentarios de Andres Arias
+<<<<<<< HEAD
 No hay hombre tan cobarde a quien el amor no haga valiente y transforme en héroe. Platón.
+=======
+No hay hombre tan cobarde a quien el amor no haga valiente y transforme en héroe. Platón.
+>>>>>>> 0b75b1cd522bd0d92cd67620b3feaa810d224ea7
