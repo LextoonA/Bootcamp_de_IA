@@ -25,3 +25,29 @@ Temas aprendidos en el curso:
 * Instalación de phyton y extensiones en Visual studio code
 * Firebase (Hosting)
 * Primeros pasos con Phyton (sintaxis y tipos de variables)
+
+# Este es un comentario de James
+
+La felicidad no es una meta, sino una serie de elecciones conscientes que hacemos cada día.
+
+# este es un comentario de María Mercedes
+
+Nunca pares de aprender
+
+# Este es un comentario de Sofi
+
+"El único límite que tienes es el que tú mismo te pones." -Robert Kiyosaki
+
+# Este es un comentario de Gloria Delgado
+
+nunca dejes de soñar
+
+# Este es un comentario de Carlos Rosero
+
+lo unico imposible es aquello que no intentas
+
+# Este es un comentarios de Yamid
+Nuestra mayor debilidad reside en rendirnos. La forma más segura de tener éxito es intentarlo una vez más. (Thomas A. Edison)
+
+# Este es un comentarios de Andres Arias
+No hay hombre tan cobarde a quien el amor no haga valiente y transforme en héroe. Platón.
